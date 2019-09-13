@@ -1,3 +1,3 @@
 # hello world
 My first repository
-I love :car:,:pikachu: and :ferrari:.
+I love :car:,:coffee: and :watch:.
